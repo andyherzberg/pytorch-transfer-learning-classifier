@@ -1,6 +1,6 @@
-# Transfer Learning Classifier: Bee, Wasp or Humble bee? 🐝
+# Transfer Learning Classifier: To Bee or not to bee? 🐝
 
-This notebook is a complete Deep Learning transfer learning project that can be run on Google colab. The model is trained with about 60 images per class. See some random samples below. 
+This notebook is a complete Deep Learning transfer learning project that can be run on Google colab. The model can differentiate between bees, wasps and humble bees. It is trained with about 60 images per class. See some random samples below. 
 
 ![train_dataset_batch1](https://github.com/andyherzberg/pytorch-transfer-learning-classifier/blob/master/Download.png)
 ![train_dataset_batch2](https://github.com/andyherzberg/pytorch-transfer-learning-classifier/blob/master/Download%20(1).png)

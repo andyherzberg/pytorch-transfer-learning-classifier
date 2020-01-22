@@ -11,4 +11,4 @@ This notebook is a complete Deep Learning transfer learning project that can be 
 ![train_dataset_batch5](https://github.com/andyherzberg/pytorch-transfer-learning-classifier/blob/master/Download%20(5).png)
 ![train_dataset_batch5](https://github.com/andyherzberg/pytorch-transfer-learning-classifier/blob/master/Download%20(6).png)
 ![train_dataset_batch5](https://github.com/andyherzberg/pytorch-transfer-learning-classifier/blob/master/Download%20(7).png)
-<img src="https://github.com/andyherzberg/pytorch-transfer-learning-classifier/blob/master/Download%20(6).png" width="60%">.
+<img src="https://github.com/andyherzberg/pytorch-transfer-learning-classifier/blob/master/Download%20(6).png" width="70%">.

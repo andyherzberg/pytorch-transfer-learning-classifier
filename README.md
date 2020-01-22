@@ -9,7 +9,9 @@ This notebook is a complete Deep Learning transfer learning project that can be 
 ![train_dataset_batch5](https://github.com/andyherzberg/pytorch-transfer-learning-classifier/blob/master/Download%20(4).png)
 
 After training the classifier has an accuracy of 95+% on the unseen validation set. 
+
 ![train_dataset_batch5](https://github.com/andyherzberg/pytorch-transfer-learning-classifier/blob/master/Download%20(5).png)
 
 The following images visualize the trained filters of the convolutional network.
+
 <img src="https://github.com/andyherzberg/pytorch-transfer-learning-classifier/blob/master/Download%20(6).png" width="70%">

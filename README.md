@@ -1,4 +1,4 @@
-# pytorch-transfer-learning-classifier
+# Transfer Learning Classifier
 
 This notebook is a complete Deep Learning transfer learning project that can be run on Google colab. 
 
